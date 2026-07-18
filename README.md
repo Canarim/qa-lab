@@ -1,12 +1,10 @@
 # qa-lab
 
-Meu laboratório de estudos em automação de testes, saindo de QA para SDET, em TypeScript.
-
-Aqui eu pratico escrevendo testes que rodam de verdade. Tudo que está no repositório é código que eu montei entendendo o que faz, não copiado.
+Laboratório de estudo voltado a aprender e praticar TypeScript e Playwright.
 
 ## Stack
 
-TypeScript, Vitest e Playwright. GitHub Actions entra mais pra frente.
+TypeScript, Vitest e Playwright.
 
 ## Como rodar
 
