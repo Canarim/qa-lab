@@ -10,11 +10,11 @@ TypeScript, Vitest e Playwright. GitHub Actions entra mais pra frente.
 
 ## Como rodar
 
-​```bash
+```bash
 npm install
 npm test             # roda os testes uma vez
 npm run test:watch   # roda em modo watch
-​```
+```
 
 ## Status
 
