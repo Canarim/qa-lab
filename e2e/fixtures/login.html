@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <title>Login — boneco de treino</title>
+    <style>
+      body { font-family: system-ui, sans-serif; max-width: 320px; margin: 60px auto; }
+      label { display: block; margin: 12px 0 4px; font-weight: 600; }
+      input { width: 100%; padding: 8px; box-sizing: border-box; }
+      button { margin-top: 16px; padding: 10px 16px; cursor: pointer; }
+    </style>
+  </head>
+  <body>
+    <h1>Entrar no sistema</h1>
+    <form>
+      <label for="user">Usuário</label>
+      <input id="user" name="user" type="text" data-challenge-id="campo-usuario" />
+
+      <label for="pass">Senha</label>
+      <input id="pass" name="pass" type="password" data-challenge-id="campo-senha" />
+
+      <button type="submit" data-challenge-id="botao-entrar">Entrar</button>
+    </form>
+  </body>
+</html>
